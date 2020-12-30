@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">PassWord</string>
+    <string name="register">Register</string>
+    <string name="firstname">FirstName</string>
+    <string name="sname">SName</string>
+    <string name="age">Age</string>
+    <string name="password1">password</string>
+    <string name="checkpassword">checkPassword</string>
+    <string name="login">Login</string>
+    <string name="numph">NumPh</string>
+</resources>
